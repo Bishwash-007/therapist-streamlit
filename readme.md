@@ -4,7 +4,7 @@ To run locally
 ---
 ```
 git clone https://github.com/Bishwash-007/therapist-streamlit
-cd therapist
+cd therapist-streamlit
 pip install -r requirements.txt
 
 streamlit run src/app.py
