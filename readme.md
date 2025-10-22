@@ -3,7 +3,7 @@
 To run locally 
 ---
 ```
-git clone https://github.com/bishwash-007/therapist
+git clone https://github.com/Bishwash-007/therapist-streamlit
 cd therapist
 pip install -r requirements.txt
 
